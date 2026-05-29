@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Jie Liu
 
-<!--
-**Jie1Liu/Jie1Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Founder of PopTouch
 
-Here are some ideas to get you started:
+✈️ VTOL UAV Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Incoming M.S. in Aerospace and Mechanical Engineering @ USC
+
+## Current Focus
+
+- AI Agents
+- UAV Autonomy
+- VTOL Aircraft
+- Robotics
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jie1Liu&show_icons=true)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jie1Liu&layout=compact)
+
+## Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Jie1Liu)
